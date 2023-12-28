@@ -1,0 +1,64 @@
+button {
+    background-color: aqua;
+}
+
+.large {
+    font-size: 300%;
+}
+
+.colourful {
+    background-color: blueviolet;
+}
+
+#button3 {
+    color: red;
+}
+
+* {
+    color: magenta;
+}
+
+button, pre {
+    background-color: cyan;
+}
+
+#button1 {
+    height: 100px;
+    width: 200px;
+}
+
+#button1 {
+    height: 100px;
+}
+
+button {
+    width: 30%;
+}
+
+#button1 {
+    height: 100px;
+}
+
+button {
+    width: 30%;
+    min-width: 50px;
+    max-width: 100px;
+}
+
+button {
+    height: 100px;
+    width: 100px;
+}
+
+#pikachu {
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+li, p {
+    display: inline;
+}
